@@ -40,3 +40,5 @@ console.log("random randomNumber:", randomNumber);
 //2 collect the input from user 
 //3.validate the input 
 //4. compare the input with the random number 
+// Event listener for button click
+  
